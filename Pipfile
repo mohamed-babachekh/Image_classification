@@ -10,6 +10,7 @@ opencv-python = "*"
 h5py = "*"
 matplotlib = "*"
 streamlit = "*"
+opencv-python="*"
 
 [dev-packages]
 
